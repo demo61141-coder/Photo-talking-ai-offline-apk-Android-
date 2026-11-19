@@ -1,0 +1,6 @@
+{
+  "name": "Talking Photo Pro",
+  "description": "Offline talking-photo animation studio for humans, cartoons, animals, and birds with auto/manual rigging, frequency-band lip sync, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
